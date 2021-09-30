@@ -1,5 +1,7 @@
 # Password Generator
 
+![Password Generator Preview](https://github.com/iatenine/password-generator/blob/b35997e10b4a654dd0f46cd0de8b3adeb1ab58ac/password-screenshot.png)
+
 ## Description
 
 This repo was created as part of a project to plan and implement the logic of deploying a password generator
